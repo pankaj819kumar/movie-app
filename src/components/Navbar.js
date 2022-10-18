@@ -52,7 +52,7 @@ class Navbar extends Component {
       </div>
     );
   }
-}
+}  
 
 class NavbarWrapper extends React.Component {
   render() {
